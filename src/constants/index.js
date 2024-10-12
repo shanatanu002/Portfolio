@@ -108,8 +108,8 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
+      title: "Full Stack Developer",
+      company_name: "Gro Pro",
       icon: starbucks,
       iconBg: "#383E56",
       date: "March 2020 - April 2021",
@@ -121,42 +121,32 @@ import {
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
-      iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      title: "Course Web Site Project",
+      
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developed and deployed a web application with my team using the MERN stack (MongoDB, Express.js, React, Node.js) to assist a college professor in efficiently managing and distributing study materials.",
+        "The platform allows our professor to upload subject notes,lecture videos, and other educational resources, making them easily accessible to students of LNMIIT",
+        "A secure admin portal was implemented, enabling the professor to log in with specific credentials and manage the content.",
+        " Solved real world issues by efficiently coordinating with team members and providing a final product meeting the requirements of our mentor",
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      title: "Video Chat App Project",
+      
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developing a real-time video chat website inspired by Omeagle with enhanced functionalities and utilizing modern web technologies.",
+        "Implemented a robust back-end server using Node.js and Expressa, enabling real-time communication through WebRTC and Web Sockets.",
+        "Will be developing a user-friendly interface with React.js, incorporating components for video streams, chat functionality, and user authentication.",
+        ": Ensured efficient handling of multiple concurrent users and optimized the application for low-latency communication.",
       ],
     },
     {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      title: "Music Sgmentation Project",
+
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "This project focuses on music segmentation using advanced Machine Learning (ML) and Deep Learning (DL) techniques.",
+        "By leveraging Librosa, a Python library for audio analysis, the project aims to extract and analyze meaningful segments from music audio files.",
+        " The approach includes feature engineering (mel-spectrograms, chromagrams, rhythmic features), and the application of both supervised(K Means, SVMs, Random Forests) and unsupervised (Self-Organizing Maps, Deep CNNs) learning algorithms for segment predictionlementing responsive design and ensuring cross-browser compatibility.",
       ],
     },
   ];
